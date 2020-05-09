@@ -1,0 +1,16 @@
+{
+  "name": "vue-cli-plugin-axios",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:socheatsok78/vue-cli-plugin-axios.git"
+  },
+  "homepage": "https://github.com/socheatsok78/vue-cli-plugin-axios#readme",
+  "author": "Socheat Sok <alex@socheat.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vue/cli-service": "^4.3.1",
+    "@vue/cli-shared-utils": "^4.3.1"
+  }
+}
